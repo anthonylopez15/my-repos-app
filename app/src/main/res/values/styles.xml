@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="FlatButton" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="backgroundTint">@color/colorAccent</item>
+    </style>
+
+    <style name="RaiseButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="backgroundTint">@color/colorAccent</item>
+    </style>
+
 </resources>

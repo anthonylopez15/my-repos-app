@@ -5,4 +5,8 @@
     <string name="description">Description</string>
     <string name="name">Name</string>
     <string name="toolbar_title">Meu Repositório</string>
+    <string name="toolbar_detalhes">Detalhes do Repositório</string>
+    <string name="ultima_atualizao">Última atualização</string>
+    <string name="linguagem">Linguagem</string>
+    <string name="descricao">Descrição</string>
 </resources>

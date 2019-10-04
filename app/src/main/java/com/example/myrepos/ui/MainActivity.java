@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
                         list.addAll(responseRepos);
                         adapter.notifyDataSetChanged();
                     }
+                    Log.d(TAG, "OK");
                 } else {
                     Log.d(TAG, "An error has happened " + response.message());
                 }
