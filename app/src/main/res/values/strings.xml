@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Repos</string>
+    <string name="ver_mais">Ver Mais</string>
+    <string name="icone">Icone</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="toolbar_title">Meu Repositório</string>
 </resources>

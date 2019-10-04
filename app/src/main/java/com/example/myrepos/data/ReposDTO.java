@@ -7,10 +7,16 @@ public class ReposDTO {
     private int mId;
     @SerializedName("name")
     private String mName;
+    @SerializedName("description")
+    private String mDescription;
 
-    public ReposDTO(int id, String name) {
-        this.mId = id;
-        this.mName = name;
+
+    public String getmDescription() {
+        return mDescription;
+    }
+
+    public void setmDescription(String mDescription) {
+        this.mDescription = mDescription;
     }
 
     public int getmId() {
